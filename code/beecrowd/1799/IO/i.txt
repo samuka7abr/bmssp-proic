@@ -1,0 +1,10 @@
+8 9
+Entrada A
+A B
+B C
+C *
+A D
+D *
+* E
+E Saida
+B Saida
